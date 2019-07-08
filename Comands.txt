@@ -1,0 +1,7 @@
+1. git add .
+
+2. Hago el commit --> 
+			git commit -m "Modificacion"
+
+3. Reflejo los cambios --> 
+			git push origin master
